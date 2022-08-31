@@ -15,3 +15,4 @@ a symbolic link to /bin/ls, named __ls__
 Create a script that copies all the HTML files
  a script that deletes all files in the current working directory that end with the character ~
 creates the directories welcome/, welcome/to/ and welcome/to/school
+a command that lists all the files and directories of the current directory, separated by commas (,).
