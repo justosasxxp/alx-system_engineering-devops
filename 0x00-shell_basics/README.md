@@ -13,3 +13,4 @@ script that changes the working directory to the previous one
  a script that prints the type of the file named iamafile
 a symbolic link to /bin/ls, named __ls__
 Create a script that copies all the HTML files
+ a script that deletes all files in the current working directory that end with the character ~
